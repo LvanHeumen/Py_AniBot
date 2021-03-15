@@ -6,6 +6,7 @@ My personal Discord Bot.
 - Awake Ping
 - Roll dice
 - Get voice actor's image
+- Logout (owner only)
 
 
 ### Planned functions:
